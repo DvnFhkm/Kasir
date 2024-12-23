@@ -1,0 +1,6 @@
+Login :
+Username = admin
+Password = admin
+
+admin/module/barang/index.html
+<td><?php echo $isi['merk']; ?></td>
